@@ -40,8 +40,8 @@ Les opérations prises en charge sont l'addition (`+`), la soustraction (`-`), l
 
 Les captures des résultats de cette activité sont disponibles dans le dossier :
 
-![Capture 1](./TP2/TP2_actv2-1/images/actv1.1.png)
-![Capture 2](./TP2/TP2_actv2-1/images/actv1.2.png)
+![Capture 1](./TP2_actv2-1/images/actv1.1.png)
+![Capture 2](./TP2_actv2-1/images/actv1.2.png)
 
 
 ---
@@ -83,8 +83,8 @@ La classe implémente l'interface `Serializable` afin de permettre la sérialisa
 
 Les captures des résultats de cette activité sont disponibles dans le dossier :
 
-![Capture 1 - Activité 2-2](./TP2/TP2_Actv2-2/images/actv2.1.png)
-![Capture 2 - Activité 2-2](./TP2/TP2_Actv2-2/images/actv2.2.png)
+![Capture 1 - Activité 2-2](./TP2_Actv2-2/images/actv2.1.png)
+![Capture 2 - Activité 2-2](./TP2_Actv2-2/images/actv2.2.png)
 
 
 ---
